@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there! I am zisa 👋
+### Hope you find something interesting! 
 
 <!--
 **zisakmc/zisakmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
