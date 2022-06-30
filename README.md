@@ -5,7 +5,7 @@
 <img align = "right" width= "400" alt="coding" src ="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
-<p align="left"> <a href="https://twitter.com/vabeizisa" target="blank"><img src="https://img.shields.io/twitter/follow/zisa?logo=twitter&style=for-the-badge" alt="zisa" /></a> </p>
+<p align="left"> <a href="https://twitter.com/KVabeizisa" target="blank"><img src="https://img.shields.io/twitter/follow/zisa?logo=twitter&style=for-the-badge" alt="zisa" /></a> </p>
 
 - 📝 my articles on [zisakmc.netlify.app](https://zisakmc.netlify.app)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vabeizisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zisa" height="30" width="40" /></a>
+<a href="https://twitter.com/KVabeizisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zisa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/blueli9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="blueli9" height="30" width="40" /></a>
 </p>
 
