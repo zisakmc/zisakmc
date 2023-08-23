@@ -24,6 +24,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zisakmc&theme=yeblu&show_icons=true&locale=en&layout=compact" alt="zisakmc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zisakmc&theme=radical&show_icons=true&locale=en" alt="zisakmc" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zisakmc&theme=nightowl&" alt="zisakmc" /></p>
